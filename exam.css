@@ -1,0 +1,55 @@
+.container{
+width: 70px;
+margin: 0 auto;
+}
+
+
+.header{
+    text-align: center;
+font-size: 15px;
+padding-top: 30px;
+
+
+
+
+}
+.xett{
+height: 3.5px;
+background-color: black;
+border: none;
+width: 67px;
+margin-top: 20px;
+margin-bottom: 50px;
+margin-left: 645px;
+
+}
+body {
+    width: 100%;
+height: 2000px;
+background-color: rgb(235, 232, 241);
+
+
+}
+.main{
+    width: 230px;
+    height: 230px;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 40px;
+}
+.main i {
+color: #10ad5f;
+font-size: 25px;
+margin-top: 25px;
+
+
+
+
+}
+.main p {
+    color: #928d8d; 
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+}
