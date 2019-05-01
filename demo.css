@@ -1,0 +1,27 @@
+.container {
+width: 100%;
+margin: 0 auto;
+
+
+
+
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.number{
+    width: 223px;
+    margin-top: 200px;
+    height: 105px;
+background-color: rgb(236, 245, 255);
+text-align: center;
+color: rgb(107, 163, 107);
+font-size: 15px;
+
+}
+.number p {
+    color: rgb(117, 116, 116)
+}
